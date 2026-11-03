@@ -6,17 +6,17 @@
   },
   {
     "Time_min":10,
-    "Run1_mol_L":1.0,
+    "Run1_mol_L":1.17,
     "Run2_mol_L":0.96
   },
   {
     "Time_min":20,
-    "Run1_mol_L":1.17,
+    "Run1_mol_L":0.91,
     "Run2_mol_L":0.61
   },
   {
     "Time_min":30,
-    "Run1_mol_L":0.91,
+    "Run1_mol_L":0.71,
     "Run2_mol_L":0.39
   },
   {
